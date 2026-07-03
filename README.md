@@ -67,11 +67,11 @@
 <td align="center"><b>Home Feed</b><br><img src="assets/screenshots/Screenshot_20250811_205118.jpg" width="180"></td>
 <td align="center"><b>Search</b><br><img src="assets/screenshots/Screenshot_20250811_205137.jpg" width="180"></td>
 <td align="center"><b>Details</b><br><img src="assets/screenshots/Screenshot_20250811_205149.jpg" width="180"></td>
-<td align="center"><b>More</b><br><img src="assets/screenshots/Screenshot_20250811_205202.jpg" width="180"></td>
+<td align="center"><b>Splash</b><br><img src="assets/screenshots/Screenshot_20250811_205202.jpg" width="180"></td>
 </tr>
 </table>
 </div>
----
+
  
 ## 🗂️ Project Structure
  
